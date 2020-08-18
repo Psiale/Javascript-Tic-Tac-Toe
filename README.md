@@ -47,7 +47,7 @@ The premise of this project is to use  javascript modules and factories  to crea
 ## 🔰 Setup & Usage
 
 ### Setup
-To view the project in action, follow [this link to the live website](https://raw.githack.com/Rhelli/Javascript-Tic-Tac-Toe/feature/linters/index.html
+To view the project in action, follow [this link to the live website](https://rhelli.github.io/Javascript-Tic-Tac-Toe/
 ) or download the repository and open the HTML file with your browser of choice (we'd recommend Chrome).
 
 ## 🛎️ Contributions, Issues & Forking
